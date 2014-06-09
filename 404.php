@@ -1,7 +1,7 @@
 <?php
 /**
  * The template for displaying 404 pages (Not Found).
- * Test commit
+ * Test commit 2
  * @package _s
  */
 
